@@ -13,3 +13,7 @@ Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/
 ## Linting
 
 - `yarn lint`
+
+## Demo
+
+[https://eddjoke.github.io/gatsby-blog-starter/](https://eddjoke.github.io/gatsby-blog-starter/)
