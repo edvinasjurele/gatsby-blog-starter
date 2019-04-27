@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "My Blog",
+  "name": "gatsby-blog-starter",
+  "description": "Gatsby blog starter",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
